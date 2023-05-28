@@ -1,4 +1,4 @@
-# tmux Config
+# tmux config
 
 Configured to work best with [my neovim config](https://github.com/seetohjinwei/nvconf).
 
